@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 6f115a9bfca917a4aa5765de75770419
+timeCreated: 1524412787
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: p_flashlight
+    100004: c_survivor001
+    100006: Object001
+    100008: Object002
+    100010: Object003
+    100012: Object004
+    100014: Object005
+    100016: Object006
+    100018: Object007
+    100020: Object008
+    100022: Object009
+    100024: Object010
+    100026: Object011
+    100028: Object012
+    100030: Object013
+    100032: Object014
+    100034: c_survivor_part_01
+    100036: c_survivor_part_02
+    100038: c_survivor_part_03
+    100040: c_survivor_part_04
+    100042: c_survivor_part_05
+    100044: c_survivor_part_06
+    100046: c_survivor_part_07
+    100048: c_survivor_part_08
+    100050: c_survivor_part_09
+    100052: c_survivor_part_10
+    100054: c_survivor_part_11
+    100056: c_survivor_part_12
+    100058: c_survivor_part_13
+    100060: c_survivor_part_14
+    100062: c_survivor_part_15
+    400000: //RootNode
+    400002: p_flashlight
+    400004: c_survivor001
+    400006: Object001
+    400008: Object002
+    400010: Object003
+    400012: Object004
+    400014: Object005
+    400016: Object006
+    400018: Object007
+    400020: Object008
+    400022: Object009
+    400024: Object010
+    400026: Object011
+    400028: Object012
+    400030: Object013
+    400032: Object014
+    400034: c_survivor_part_01
+    400036: c_survivor_part_02
+    400038: c_survivor_part_03
+    400040: c_survivor_part_04
+    400042: c_survivor_part_05
+    400044: c_survivor_part_06
+    400046: c_survivor_part_07
+    400048: c_survivor_part_08
+    400050: c_survivor_part_09
+    400052: c_survivor_part_10
+    400054: c_survivor_part_11
+    400056: c_survivor_part_12
+    400058: c_survivor_part_13
+    400060: c_survivor_part_14
+    400062: c_survivor_part_15
+    2300000: //RootNode
+    2300002: p_flashlight
+    2300004: c_survivor001
+    2300006: Object001
+    2300008: Object002
+    2300010: Object003
+    2300012: Object004
+    2300014: Object005
+    2300016: Object006
+    2300018: Object007
+    2300020: Object008
+    2300022: Object009
+    2300024: Object010
+    2300026: Object011
+    2300028: Object012
+    2300030: Object013
+    2300032: Object014
+    2300034: c_survivor_part_01
+    2300036: c_survivor_part_02
+    2300038: c_survivor_part_03
+    2300040: c_survivor_part_04
+    2300042: c_survivor_part_05
+    2300044: c_survivor_part_06
+    2300046: c_survivor_part_07
+    2300048: c_survivor_part_08
+    2300050: c_survivor_part_09
+    2300052: c_survivor_part_10
+    2300054: c_survivor_part_11
+    2300056: c_survivor_part_12
+    2300058: c_survivor_part_13
+    2300060: c_survivor_part_14
+    2300062: c_survivor_part_15
+    3300000: //RootNode
+    3300002: p_flashlight
+    3300004: c_survivor001
+    3300006: Object001
+    3300008: Object002
+    3300010: Object003
+    3300012: Object004
+    3300014: Object005
+    3300016: Object006
+    3300018: Object007
+    3300020: Object008
+    3300022: Object009
+    3300024: Object010
+    3300026: Object011
+    3300028: Object012
+    3300030: Object013
+    3300032: Object014
+    3300034: c_survivor_part_01
+    3300036: c_survivor_part_02
+    3300038: c_survivor_part_03
+    3300040: c_survivor_part_04
+    3300042: c_survivor_part_05
+    3300044: c_survivor_part_06
+    3300046: c_survivor_part_07
+    3300048: c_survivor_part_08
+    3300050: c_survivor_part_09
+    3300052: c_survivor_part_10
+    3300054: c_survivor_part_11
+    3300056: c_survivor_part_12
+    3300058: c_survivor_part_13
+    3300060: c_survivor_part_14
+    3300062: c_survivor_part_15
+    4300000: c_survivor
+    4300002: p_flashlight
+    4300004: c_survivor001
+    4300006: Object009
+    4300008: Object010
+    4300010: Object011
+    4300012: Object012
+    4300014: Object001
+    4300016: Object002
+    4300018: Object003
+    4300020: Object004
+    4300022: Object013
+    4300024: Object014
+    4300026: Object007
+    4300028: Object008
+    4300030: Object005
+    4300032: Object006
+    4300034: c_survivor_part_10
+    4300036: c_survivor_part_11
+    4300038: c_survivor_part_01
+    4300040: c_survivor_part_02
+    4300042: c_survivor_part_03
+    4300044: c_survivor_part_04
+    4300046: c_survivor_part_12
+    4300048: c_survivor_part_05
+    4300050: c_survivor_part_13
+    4300052: c_survivor_part_06
+    4300054: c_survivor_part_07
+    4300056: c_survivor_part_14
+    4300058: c_survivor_part_15
+    4300060: c_survivor_part_08
+    4300062: c_survivor_part_09
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_flashlight_light
+    second: {fileID: 2100000, guid: ce6610a34e75f83409d71840a4295850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_flashlight_plastic
+    second: {fileID: 2100000, guid: d9d9ac021cdc7bf439334fee1bdaf9b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_survivor_hair
+    second: {fileID: 2100000, guid: a66cdedb7e3900446ba8bc7f0f5dc88f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_survivor_insides
+    second: {fileID: 2100000, guid: cec9d3666c5a58d4eb096a92fd6c7f1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_survivor_jacket
+    second: {fileID: 2100000, guid: 4883c61bc3621bc4ab8e3bfb0713ae6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_survivor_shirt
+    second: {fileID: 2100000, guid: 0f9787aff4f283d429eb8a4d5df0632a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_survivor_skin
+    second: {fileID: 2100000, guid: 72c4e78fbce6f074080970b193b474c5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

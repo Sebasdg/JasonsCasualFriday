@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: 2146cff096ee44341a6fb88d8080b037
+timeCreated: 1524341277
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box015
+    100002: p_pan
+    100004: p_shine
+    100006: s_bed
+    100008: s_cabin
+    100010: s_chimney
+    100012: s_dock
+    100014: s_door
+    100016: s_door 1
+    100018: s_fireplace
+    100020: s_kitchen
+    100022: s_lake
+    100024: s_log_fourth_01
+    100026: s_log_fourth_02
+    100028: s_log_fourth_03
+    100030: s_log_fourth_04
+    100032: s_log_fourth_05
+    100034: s_log_fourth_06
+    100036: s_log_fourth_07
+    100038: s_log_fourth_08
+    100040: s_log_splitter
+    100042: s_logs
+    100044: //RootNode
+    100046: s_outhouse
+    100048: s_path
+    100050: s_roof
+    100052: s_stones_01
+    100054: s_stones_010
+    100056: s_stones_011
+    100058: s_stones_012
+    100060: s_stones_013
+    100062: s_stones_02
+    100064: s_stones_03
+    100066: s_stones_04
+    100068: s_stones_05
+    100070: s_stones_06
+    100072: s_stones_07
+    100074: s_stones_08
+    100076: s_stones_09
+    100078: s_table
+    100080: s_walls
+    100082: p_door
+    100084: p_flag
+    100086: s_mailbox
+    400000: Box015
+    400002: p_pan
+    400004: p_shine
+    400006: s_bed
+    400008: s_cabin
+    400010: s_chimney
+    400012: s_dock
+    400014: s_door
+    400016: s_door 1
+    400018: s_fireplace
+    400020: s_kitchen
+    400022: s_lake
+    400024: s_log_fourth_01
+    400026: s_log_fourth_02
+    400028: s_log_fourth_03
+    400030: s_log_fourth_04
+    400032: s_log_fourth_05
+    400034: s_log_fourth_06
+    400036: s_log_fourth_07
+    400038: s_log_fourth_08
+    400040: s_log_splitter
+    400042: s_logs
+    400044: //RootNode
+    400046: s_outhouse
+    400048: s_path
+    400050: s_roof
+    400052: s_stones_01
+    400054: s_stones_010
+    400056: s_stones_011
+    400058: s_stones_012
+    400060: s_stones_013
+    400062: s_stones_02
+    400064: s_stones_03
+    400066: s_stones_04
+    400068: s_stones_05
+    400070: s_stones_06
+    400072: s_stones_07
+    400074: s_stones_08
+    400076: s_stones_09
+    400078: s_table
+    400080: s_walls
+    400082: p_door
+    400084: p_flag
+    400086: s_mailbox
+    2300000: Box015
+    2300002: p_pan
+    2300004: p_shine
+    2300006: s_bed
+    2300008: s_cabin
+    2300010: s_chimney
+    2300012: s_dock
+    2300014: s_door
+    2300016: s_door 1
+    2300018: s_fireplace
+    2300020: s_kitchen
+    2300022: s_lake
+    2300024: s_log_fourth_01
+    2300026: s_log_fourth_02
+    2300028: s_log_fourth_03
+    2300030: s_log_fourth_04
+    2300032: s_log_fourth_05
+    2300034: s_log_fourth_06
+    2300036: s_log_fourth_07
+    2300038: s_log_fourth_08
+    2300040: s_log_splitter
+    2300042: s_logs
+    2300044: //RootNode
+    2300046: s_outhouse
+    2300048: s_path
+    2300050: s_roof
+    2300052: s_stones_01
+    2300054: s_stones_010
+    2300056: s_stones_011
+    2300058: s_stones_012
+    2300060: s_stones_013
+    2300062: s_stones_02
+    2300064: s_stones_03
+    2300066: s_stones_04
+    2300068: s_stones_05
+    2300070: s_stones_06
+    2300072: s_stones_07
+    2300074: s_stones_08
+    2300076: s_stones_09
+    2300078: s_table
+    2300080: s_walls
+    2300082: p_door
+    2300084: p_flag
+    2300086: s_mailbox
+    3300000: Box015
+    3300002: p_pan
+    3300004: p_shine
+    3300006: s_bed
+    3300008: s_cabin
+    3300010: s_chimney
+    3300012: s_dock
+    3300014: s_door
+    3300016: s_door 1
+    3300018: s_fireplace
+    3300020: s_kitchen
+    3300022: s_lake
+    3300024: s_log_fourth_01
+    3300026: s_log_fourth_02
+    3300028: s_log_fourth_03
+    3300030: s_log_fourth_04
+    3300032: s_log_fourth_05
+    3300034: s_log_fourth_06
+    3300036: s_log_fourth_07
+    3300038: s_log_fourth_08
+    3300040: s_log_splitter
+    3300042: s_logs
+    3300044: //RootNode
+    3300046: s_outhouse
+    3300048: s_path
+    3300050: s_roof
+    3300052: s_stones_01
+    3300054: s_stones_010
+    3300056: s_stones_011
+    3300058: s_stones_012
+    3300060: s_stones_013
+    3300062: s_stones_02
+    3300064: s_stones_03
+    3300066: s_stones_04
+    3300068: s_stones_05
+    3300070: s_stones_06
+    3300072: s_stones_07
+    3300074: s_stones_08
+    3300076: s_stones_09
+    3300078: s_table
+    3300080: s_walls
+    3300082: p_door
+    3300084: p_flag
+    3300086: s_mailbox
+    4300000: s_terrain
+    4300002: s_lake
+    4300004: s_path
+    4300006: s_stones_05
+    4300008: s_stones_09
+    4300010: s_stones_03
+    4300012: s_log_splitter
+    4300014: s_log_fourth_01
+    4300016: s_cabin
+    4300018: s_kitchen
+    4300020: p_shine
+    4300022: p_pan
+    4300024: s_table
+    4300026: s_bed
+    4300028: s_roof
+    4300030: s_walls
+    4300032: s_chimney
+    4300034: s_door
+    4300036: s_fireplace
+    4300038: s_logs
+    4300040: s_outhouse
+    4300042: s_door
+    4300044: Box015
+    4300046: s_dock
+    4300048: s_mailbox
+    4300050: p_flag
+    4300052: p_door
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: 2f22d04e691141b40a082d35f833e993, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_bed_blue
+    second: {fileID: 2100000, guid: 135ab646b0588454f94e4811691ed8d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_bed_white
+    second: {fileID: 2100000, guid: 4c2990f93d7914e4db55aa188b52f7b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_fish
+    second: {fileID: 2100000, guid: d6888dd11a2844b4fb6729c5eac89754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_grass
+    second: {fileID: 2100000, guid: dbb7b993ec81e1f449ff0d02065d27f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_log_inner
+    second: {fileID: 2100000, guid: 222f77664f84bbf42b7672e5f5bee2de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_log_outer
+    second: {fileID: 2100000, guid: 8bb347f48c829af4e99dcdc58a6bcf50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_metal
+    second: {fileID: 2100000, guid: 30bbcbe1002d3fd439679644a88df991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_planks
+    second: {fileID: 2100000, guid: 4a07ff14a46af89408723c4c2cdb576d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_plates
+    second: {fileID: 2100000, guid: 3e63242c39ff68e4b9b90a8af8a129ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_shine
+    second: {fileID: 2100000, guid: 8e330f69958662643835e8ed2804037d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_shore
+    second: {fileID: 2100000, guid: 4c1e7daa4932a6a4983f442a832e44ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_stone_dark
+    second: {fileID: 2100000, guid: d66ef9aa8ed073c44b16544ed304483d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_stone_light
+    second: {fileID: 2100000, guid: 9bfa7c7a66e02ac4c83fb6b6c579f529, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_stone_normal
+    second: {fileID: 2100000, guid: 8ab14817b20323a4f809aed7eccb7e65, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
